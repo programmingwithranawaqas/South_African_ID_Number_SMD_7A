@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">South African ID Number</string>
+    <string name="enter_south_african_id">Enter south african id</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="id_can_t_be_empty">ID can\'t be empty</string>
+
+</resources>
